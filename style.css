@@ -19,4 +19,5 @@ body {
   top: 50%;
   left: 40%;
   transform: translateY(-50%);
+  border-radius: 1rem;
 }
