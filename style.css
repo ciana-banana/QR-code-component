@@ -21,3 +21,8 @@ body {
   transform: translateY(-50%);
   border-radius: 1rem;
 }
+
+.qrcode img{
+    width: 250px;
+    align-items: center;
+}
