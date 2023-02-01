@@ -1,10 +1,18 @@
-.attribution {
-  font-size: 11px;
+
+.text1 {
+  font-size: 16px;
   text-align: center;
+  font-weight:bold;
+  margin: 15px 19px;
+  font-family: sans-serif;
 }
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
+
+.text2 {
+  font-size: 12px;
+  text-align: center;
+  margin: 15px 19px;
+  font-family: sans-serif;
+  color: gray;}
 
 body {
   background-color: #d5e1ef;
@@ -12,7 +20,7 @@ body {
 
 .white-container {
   background-color: #fff;
-  height: 400px;
+  height: 380px;
   width: 250px;
   margin: auto;
   position: absolute;
