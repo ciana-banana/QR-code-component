@@ -13,7 +13,7 @@ body {
 .white-container {
   background-color: #fff;
   height: 400px;
-  width: 300px;
+  width: 250px;
   margin: auto;
   position: absolute;
   top: 50%;
@@ -21,8 +21,12 @@ body {
   transform: translateY(-50%);
   border-radius: 1rem;
 }
+.qrcode {
+  text-align: center;
+  margin-top: 15px;
+}
 
-.qrcode img{
-    width: 250px;
-    align-items: center;
+.qrcode img {
+  width: 220px;
+  border-radius: 0.5rem;
 }
